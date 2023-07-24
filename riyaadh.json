@@ -1,0 +1,16 @@
+import json
+
+data = [
+    {
+        "author": "riyaadh",
+        "name": "riyaadh",
+        "keyWords": "keyword1,keyword2",
+        "version": "1.0.0",
+        "dofusVersion": "2.67",
+        "description": "meu tema",
+        "url": "https://github.com/RiyaadhIsmael/hello/raw/main/riyaadh.zip",
+        "previewUrl": "https://github.com/RiyaadhIsmael/hello/raw/main/preview.png",
+        "creationDate": "08/10/2016",
+        "modificationDate": "08/10/2016"
+    }
+]
